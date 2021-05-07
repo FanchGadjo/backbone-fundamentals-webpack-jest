@@ -23,7 +23,7 @@
     "backbone": "^1.4.0",
     "jquery": "^3.5.1",
     "raw-loader": "^0.5.1",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "webpack": "^4.8.3",
     "webpack-cli": "^2.1.3"
   },
